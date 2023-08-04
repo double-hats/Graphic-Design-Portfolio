@@ -1,31 +1,31 @@
 const portfolioArray = [
     {
-        image: `images/mamaPerry's kitchen flyer mockup.jpg`,
+        image: `mamaPerry's kitchen flyer mockup.jpg`,
         title: `MamaPerry Kitchen`,
         type: `Flyer`
     },
     {
-        image: `images/Ash Wednesday Wish.jpg`,
+        image: `Ash Wednesday Wish.jpg`,
         title: `Ash Wednesday`,
         type: `Wish`
     },
     {
-        image: `images/Tela Bakery Flyer - Mockup.png`,
+        image: `Tela Bakery Flyer - Mockup.png`,
         title: `TelaBakery`,
         type: `Flyer`
     },
     {
-        image: `images/Mama Perry's Kitchen Logo.jpg`,
+        image: `Mama Perry's Kitchen Logo.jpg`,
         title: `MamaPerry's Kitchen`,
         type: `LOGO`
     },
     {
-        image: `images/Travail Flyer - Mockup.jpg`,
+        image: `Travail Flyer - Mockup.jpg`,
         title:`Travail`,
         type: `flyer`
     },
     {
-        image: `images/20230311_184602.jpg`,
+        image: `20230311_184602.jpg`,
         title:`TelaStudio T-Shirt`,
         type: `clothing design`
     },
